@@ -1,8 +1,8 @@
 # SpikeInterface_Project_ECIC
-
-## This is the complete pipeline for SpikeInterface Analysis for our datasets
 **by adamfed0r**
 
+
+## This is the complete pipeline for SpikeInterface Analysis for our datasets
 It includes the following steps:
 - importing libraries (np, mpl, pd, si and subfolders, probeinterface)
 - creating a Recording object
