@@ -112,8 +112,8 @@ This repository is under active development. Some notebooks, especially
 statistical analysis components, may be exploratory or incomplete.
 
 Future work will include:
-- Sharp-Wave Detection,
-- Quality Metrics and Statistical Analysis on the spike-sorted recordings,
+- Sharp-Wave Detection
+- Quality Metrics and Statistical Analysis on the spike-sorted recordings
 - IC-LFP Comparison for Describing the Patched Cell's activity in relation to the LFP
 
 ---
@@ -129,10 +129,10 @@ Future work will include:
 If you use this repository, please cite the relevant experimental work and the
 software packages used in the analysis:
 
-- SpikeInterface
-- ProbeInterface
-- KiloSort
-- Phy
+- [SpikeInterface](https://github.com/SpikeInterface/spikeinterface)
+- [ProbeInterface](https://github.com/SpikeInterface/probeinterface)
+- [KiloSort](https://github.com/cortex-lab/KiloSort)
+- [Phy](https://github.com/cortex-lab/phy)
 
 Please also acknowledge the development of the Spiky extracellular electrode by
 Domokos Meszéna, PhD, where appropriate.
